@@ -1,7 +1,7 @@
-line
-line
-line
-line
+modified line
+modified line
+another modified line
+another modified line
 line
 line
 line
